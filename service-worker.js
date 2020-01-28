@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/batmantvseries/precache-manifest.2a72e2799dcb50c44a3e38a5fe34f084.js"
+  "/batmantvseries/precache-manifest.e8bd8d41b6641f74c6e1127cbb0d23f0.js"
 );
 
 workbox.clientsClaim();

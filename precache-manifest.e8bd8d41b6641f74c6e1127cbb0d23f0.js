@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/batmantvseries/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "94f3d83d6c1992678ba7",
+    "revision": "dccff39bf9951b4e9c89",
     "url": "/batmantvseries/static/css/main.e7e38f7c.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/batmantvseries/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "be328275d54d59b71f5d",
-    "url": "/batmantvseries/static/js/2.5a17a3d5.chunk.js"
-  },
-  {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/batmantvseries/static/media/outline-icons.cd6c777f.woff2"
+    "revision": "b604b81800c63421bacd",
+    "url": "/batmantvseries/static/js/2.009705d3.chunk.js"
   },
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/batmantvseries/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/batmantvseries/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/batmantvseries/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "94f3d83d6c1992678ba7",
-    "url": "/batmantvseries/static/js/main.2271e11a.chunk.js"
+    "revision": "dccff39bf9951b4e9c89",
+    "url": "/batmantvseries/static/js/main.6233cacc.chunk.js"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
@@ -56,20 +56,20 @@ self.__precacheManifest = [
     "url": "/batmantvseries/static/media/brand-icons.a046592b.woff"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/batmantvseries/static/media/icons.8e3c7f55.eot"
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/batmantvseries/static/media/brand-icons.13db00b7.eot"
   },
   {
     "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
     "url": "/batmantvseries/static/media/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "/batmantvseries/static/media/brand-icons.13db00b7.eot"
-  },
-  {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
     "url": "/batmantvseries/static/media/brand-icons.c5ebe0b3.ttf"
+  },
+  {
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/batmantvseries/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
@@ -80,11 +80,11 @@ self.__precacheManifest = [
     "url": "/batmantvseries/static/media/icons.962a1bf3.svg"
   },
   {
-    "revision": "be328275d54d59b71f5d",
+    "revision": "b604b81800c63421bacd",
     "url": "/batmantvseries/static/css/2.e8ac2bc3.chunk.css"
   },
   {
-    "revision": "b6745f56430ce115575fe85b035b1fc3",
+    "revision": "7b833c7a1a215320686b549f95923796",
     "url": "/batmantvseries/index.html"
   }
 ];
