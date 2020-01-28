@@ -8,7 +8,7 @@ export function fetchMovies(){
     return dispatch => {
         dispatch({
             type: "FETCH_MOVIES",
-            payload: axios.get("http://api.tvmaze.com/search/shows?q=batman")
+            payload: axios.get("https://api.tvmaze.com/search/shows?q=batman")
             .then(result => result.data)
         })
     }
